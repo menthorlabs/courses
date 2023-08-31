@@ -3,5 +3,6 @@
   "cSpell.language": "en,pt,pt-BR",
   "cSpell.enabledLanguageIds": ["javascript", "typescript"],
   "cSpell.words": ["nuxt", "menthor", "ofetch", "menthorlabs", "sakura", "pinia"],
-  "pasteImage.path": "${projectRoot}/images/"
+  "pasteImage.path": "${projectRoot}/images/",
+  "pasteImage.insertPattern": "${imageSyntaxPrefix}https://raw.githubusercontent.com/menthorlabs/courses/main/images/${imageFileName}${imageSyntaxSuffix}"
 }
