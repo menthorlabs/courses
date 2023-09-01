@@ -1,4 +1,4 @@
-image: https://menthor.io/_ipx/f_webp&q_85&s_205x288/midjourney/characters/5.png
+image: https://raw.githubusercontent.com/menthorlabs/courses/main/images/2023-08-31-23-13-12.png
 title: 𝕏 (Twitter) Descentralizado
 description: Crie um clone do twitter na blockchain
 tags: ['ethers', 'solidity', 'vue', 'tailwind', 'vercel', 'github']
