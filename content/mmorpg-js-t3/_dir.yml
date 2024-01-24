@@ -1,0 +1,7 @@
+image: https://raw.githubusercontent.com/menthorlabs/courses/main/images/html-basico/html-course.png
+title: MMORPG text-based com JavaScript
+description: Entenda o processo de criação de um jogo MMORPG text-based com JavaScript
+tags: ["react", "nextjs", "javascript". "mmorpg", "prisma", "trpc", "tailwindcss"]
+areas: ["front-end"]
+level: advanced
+discordRole: "1154384585937916075"
