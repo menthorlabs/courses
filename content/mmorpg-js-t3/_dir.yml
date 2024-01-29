@@ -1,8 +1,7 @@
-image: https://menthor-content.s3.sa-east-1.amazonaws.com/1697bdf2-4cb5-4aee-8a5e-6ad0d40430c8
-title: MMORPG text-based com JavaScript
-description: Entenda o processo de criação de um jogo MMORPG text-based com JavaScript
-tags:
-  ["react", "nextjs", "javascript", "mmorpg", "prisma", "trpc", "tailwindcss"]
+image: https://menthor-content.s3.sa-east-1.amazonaws.com/b29ed4ce-9570-4fc6-81ac-77e16d984096
+title: Text-based MMORPG com JavaScript
+description: Entenda o processo de criação de um jogo MMORPG web com JavaScript
+tags: ["react", "nextjs", "javascript", "mmorpg", "prisma", "trpc", "tailwind"]
 areas: ["front-end"]
 level: advanced
 discordRole: "1201284582381727884"
